@@ -8,7 +8,7 @@ char strcat1(char* arr, char* arr1){
 		arr++;
 		arr1++;
 	}
-	return  char* arr;
+     *arr='\0';
 }
 int main()
 {
